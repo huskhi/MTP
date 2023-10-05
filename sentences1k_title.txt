@@ -1,0 +1,1000 @@
+Thermodynamic Stability - A note on a footnote in Ruelle's book
+One-loop MHV Rules and Pure Yang-Mills
+Probing non-standard neutrino interactions with supernova neutrinos
+Potassium intercalation in graphite: A van der Waals density-functional  study
+Universal Source Coding for Monotonic and Fast Decaying Monotonic  Distributions
+A note on higher-order differential operations
+The Boundary Conditions of the Heliosphere: Photoionization Models  Constrained by Interstellar and In Situ Data
+Zero bias anomaly out of equilibrium
+Collective behavior of stock price movements in an emerging market
+On the Origin of Asymmetries in Bilateral Supernova Remnants
+An equilibrium problem for the limiting eigenvalue distribution of  banded Toeplitz matrices
+A procedure for finding the k-th power of a matrix
+On-line Viterbi Algorithm and Its Relationship to Random Walks
+Spectroscopic Properties of Polarons in Strongly Correlated Systems by  Exact Diagrammatic Monte Carlo Method
+Radio Astrometric Detection and Characterization of Extra-Solar Planets:  A White Paper Submitted to the NSF ExoPlanet Task Force
+Low mass visual binaries in the solar neighbourhood: The case of  HD141272
+Evolution of the Carter constant for inspirals into a black hole: effect  of the black hole quadrupole
+Aspects of Electron-Phonon Self-Energy Revealed from Angle-Resolved  Photoemission Spectroscopy
+Two-pion exchange three-nucleon potential: O(q^4) chiral expansion
+Exponential growth rates in a typed branching diffusion
+Experimental nonclassicality of single-photon-added thermal light states
+On Almost Periodicity Criteria for Morphic Sequences in Some Particular  Cases
+Manipulating the rotational properties of a two-component Bose gas
+GRO J1655-40: from ASCA and XMM-Newton Observations
+Ground-based Microlensing Surveys
+Stability of a finite volume scheme for the incompressible fluids
+Phase diagram of Gaussian-core nematics
+Discovery of a point-like very-high-energy gamma-ray source in Monoceros
+Oxygen-rich droplets and the enrichment of the ISM
+Form factors of the exotic baryons with isospin I=5/2
+Magnetohydrodynamic Rebound Shocks of Supernovae
+The $e^+ e^-\to K^+ K^- \pi^+\pi^-$, $K^+ K^- \pi^0\pi^0$ and $K^+ K^-  K^+ K^-$ Cross Sections Measured with Initial-State Radiation
+High Energy Variability Of Synchrotron-Self Compton Emitting Sources:  Why One Zone Models Do Not Work And How We Can Fix It
+Stringy Instantons at Orbifold Singularities
+Hecke-Clifford algebras and spin Hecke algebras I: the classical affine  type
+On the Achievable Rate Regions for Interference Channels with Degraded  Message Sets
+Molecular Synchronization Waves in Arrays of Allosterically Regulated  Enzymes
+Frobenius-Schur indicators for semisimple Lie algebras
+An invariance principle for semimartingale reflecting Brownian motions  in domains with piecewise smooth boundaries
+Optimal stimulus and noise distributions for information transmission  via suprathreshold stochastic resonance
+A unified analysis of the reactor neutrino program towards the  measurement of the theta_13 mixing angle
+Analysis of the real estate market in Las Vegas: Bubble, seasonal  patterns, and prediction of the CSW indexes
+Isospin breaking in the yield of heavy meson pairs in e+e- annihilation  near threshold
+On Some Subgroup Chains Related to Kneser's Theorem
+Finite Drude weight for 1D low temperature conductors
+Exchange of quantum states between coupled oscillators
+A Note About the {Ki(z)} Functions
+Particle propagation in cosmological backgrounds
+Conditional generation of path-entangled optical NOON states
+Criteria in the Selection of Target Events for Planetary Microlensing  Follow-Up Observation
+Hadrons in Medium -- Theory confronts experiment
+Discovery of X-ray emission from the young radio pulsar PSR J1357-6429
+Laser spectroscopy of hyperfine structure in highly-charged ions: a test  of QED at high fields
+Parametrized Post-Newtonian Expansion of Chern-Simons Gravity
+Power Spectra to 1% Accuracy between Dynamical Dark Energy Cosmologies
+Optimal Shape Design for Stokes Flow Via Minimax Differentiability
+Persistent Currents in Superconducting Quantum Interference Devices
+Does the Blazar Gamma-Ray Spectrum Harden with Increasing Flux? Analysis  of 9 Years of EGRET Data
+Direct Theorems in the Theory of Approximation of the Banach Space  Vectors by Entire Vectors of Exponential Type
+Coulomb excitation of unstable nuclei at intermediate energies
+Eigen Equation of the Nonlinear Spinor
+Dimensional crossover of quantum critical behavior in CeCoIn$_5$
+Compatibility of Exotic States with Neutron Star Observation
+Effects of Imperfect Gate Operations in Shor's Prime Factorization  Algorithm
+Quantum engineering of photon states with entangled atomic ensembles
+Dynamics of Bose-Einstein Condensates
+Reduced phase space and toric variety coordinatizations of Delzant  spaces
+Type D Einstein spacetimes in higher dimensions
+A transcendental approach to Koll\'ar's injectivity theorem
+Real Options for Project Schedules (ROPS)
+The old open clusters Berkeley 32 and King 11
+On the Energy-Momentum Problem in Static Einstein Universe
+Behavioral response to strong aversive stimuli: A neurodynamical model
+Refuting the Pseudo Attack on the REESSE1+ Cryptosystem
+The IDV source J1128+5925, a new candidate for annual modulation?
+Heavy-Light Semileptonic Decays in Staggered Chiral Perturbation Theory
+Anisotropic thermo-elasticity in 2D -- Part I: A unified approach
+Quantum Field Theory on Curved Backgrounds. II. Spacetime Symmetries
+Anomalous c-axis transport in layered metals
+Associated production of the charged Higgs boson and single top quark at  the LHC
+Switching mechanism of photochromic diarylethene derivatives molecular  junctions
+A practical Seedless Infrared-Safe Cone jet algorithm
+Information entropic superconducting microcooler
+Pairwise comparisons of typological profiles (of languages)
+The Necessary and Sufficient Conditions of Separability for Bipartite  Pure States in Infinite Dimensional Hilbert Spaces
+On the Markov trace for Temperley--Lieb algebras of type $E_n$
+Visualizing Teleportation
+Analysis of random Boolean networks using the average sensitivity
+Noncommutative Solitons in a Supersymmetric Chiral Model in 2+1  Dimensions
+Local-field effects in radiatively broadened magneto-dielectric media:  negative refraction and absorption reduction
+Two- and three-point Green's functions in two-dimensional Landau-gauge  Yang-Mills theory
+The local structure of conformally symmetric manifolds
+Neutron Inelastic Scattering Processes as Background for Double-Beta  Decay Experiments
+Filling-Factor-Dependent Magnetophonon Resonance in Graphene
+Non-monotone convergence in the quadratic Wasserstein distance
+Optimal Routing for Decode-and-Forward based Cooperation in Wireless  Networks
+Placeholder Substructures III: A Bit-String-Driven ''Recipe Theory'' for  Infinite-Dimensional Zero-Divisor Spaces
+Chromospheric Flares
+Environmental noise reduction for holonomic quantum gates
+Counterflow of electrons in two isolated quantum point contacts
+Finite bias visibility of the electronic Mach-Zehnder interferometer
+QED x QCD Resummation and Shower/ME Matching for LHC Physics
+Flavor Physics in SUSY at large tan(beta)
+Gluon Radiation of an Expanding Color Skyrmion in the Quark-Gluon Plasma
+Symmetry disquisition on the TiOX phase diagram
+Chemical Evolution
+Cyclotron Resonance study of the electron and hole velocity in graphene  monolayers
+Suppression of 1/f noise in one-qubit systems
+Mapping the Youngest Galaxies to Redshift One
+Spectroscopy of Nine Cataclysmic Variable Stars
+Effect of electron-electron interaction on the phonon-mediated spin  relaxation in quantum dots
+Intelligent Life in Cosmology
+Fermi-liquid effects in the transresistivity in quantum Hall double  layers near $\nu= 1/2 $
+Limits on WIMP-nucleon interactions with CsI(Tl) crystal detectors
+Are constant loop widths an artifact of the background and the spatial  resolution?
+Gibbs fragmentation trees
+Enumerating limit groups
+Spectral action on noncommutative torus
+A new approach to mutual information
+Mathematics of thermoacoustic tomography
+Transfinite diameter, Chebyshev constant and energy on locally compact  spaces
+Resolvent estimates related with a class of dispersive equations
+On generalized entropy measures and pathways
+Efficiency of thin film photocells
+Curvature and isocurvature perturbations in two-field inflation
+Millimeter imaging of HD 163296: probing the disk structure and  kinematics
+Curvature flows in semi-Riemannian manifolds
+Evolutionary Neural Gas (ENG): A Model of Self Organizing Network from  Input Categorization
+3-D Simulations of Ergospheric Disk Driven Poynting Jets
+Plasmon Amplification through Stimulated Emission at Terahertz  Frequencies in Graphene
+Recurrence analysis of the Portevin-Le Chatelier effect
+The Source of Turbulence in Astrophysical Disks: An Ill-posed Problem.
+Gravity-induced electric polarization of matter and planetary magnetic  fields
+Antiferromagnetism-superconductivity competition in electron-doped  cuprates triggered by oxygen reduction
+Effective interactions from q-deformed inspired transformations
+Al'tshuler-Aronov correction to the conductivity of a large metallic  square network
+A General Nonlinear Fokker-Planck Equation and its Associated Entropy
+Geometry Effects at Atomic-Size Aluminium Contacts
+Swift/XRT observes the fifth outburst of the periodic Supergiant Fast  X-ray Transient IGR J11215-5952
+Experimental observation of structural crossover in binary mixtures of  colloidal hard spheres
+Formation and Collisional Evolution of Kuiper Belt Objects
+Inapproximability of Maximum Weighted Edge Biclique and Its Applications
+Proper holomorphic mappings of the spectral unit ball
+Spectral perturbation bounds for selfadjoint operators
+Superconducting states of the quasi-2D Holstein model: Effects of vertex  and non-local corrections
+Worldsheet Instantons and Torsion Curves, Part B: Mirror Symmetry
+FIRST-based survey of Compact Steep Spectrum sources, V.  Milliarcsecond-scale morphology of CSS objects
+Binary Systems as Test-beds of Gravity Theories
+On the orbital period of the magnetic Cataclysmic Variable HS 0922+1333
+Efficient Simulations of Early Structure Formation and Reionization
+On iterated image size for point-symmetric relations
+Spin solid phases of spin 1 and spin 3/2 antiferromagnets on a cubic  lattice
+Origin of adaptive mutants: a quantum measurement?
+Braiding transformation, entanglement swapping and Berry phase in  entanglement space
+CP violation due to multi Froggatt-Nielsen fields
+The Einstein-Varicak Correspondence on Relativistic Rigid Rotation
+Measurement of Decay Amplitudes of B -->(c cbar) Kstar with an Angular  Analysis, for (c cbar)=J/psi, psi(2S) and chi_c1
+Density oscillation in highly flattened quantum elliptic rings and  tunable strong dipole radiation
+Calculation of prompt diphoton production cross sections at Tevatron and  LHC energies
+Generalized regularly discontinuous solutions of the Einstein equations
+Metal-insulator transition in the low-dimensional organic conductor  (TMTSF)2FSO3 probed by infrared microspectroscopy
+The Veldkamp Space of Two-Qubits
+General asymptotic solutions of the Einstein equations and phase  transitions in quantum gravity
+Polymerization Force Driven Buckling of Microtubule Bundles Determines  the Wavelength of Patterns Formed in Tubulin Solutions
+On the polynomial automorphisms of a group
+Finite branch solutions to Painleve VI around a fixed singular point
+Decoupling Supergravity from the Superstring
+Some non-braided fusion categories of rank 3
+Geometrically Engineering the Standard Model: Locally Unfolding Three  Families out of E8
+Smooth and Starburst Tidal Tails in the GEMS and GOODS Fields
+Dimers on surface graphs and spin structures. II
+The Exact Boundary Condition to Solve the Schrodinger Equation of Many  Electron System
+The 3D +-J Ising model at the ferromagnetic transition line
+Spectral analysis of Swift long GRBs with known redshift
+Implementation of holonomic quantum computation through engineering and  manipulating environment
+Polarization conversion in a silica microsphere
+Architecture for Pseudo Acausal Evolvable Embedded Systems
+Photometry of the Globular Cluster NGC 5466: Red Giants and Blue  Stragglers
+Quantum analysis of a linear DC SQUID mechanical displacement detector
+NMR evidence for a strong modulation of the Bose-Einstein Condensate in  BaCuSi$_2$O$_6$
+Vortex state in a Fulde-Ferrell-Larkin-Ovchinnikov superconductor based  on the quasiclassical theory
+Three-dimensional effects in "atom diodes": atom-optical devices for  one-way motion
+Entanglement entropy at infinite randomness fixed points in higher  dimensions
+SIM PlanetQuest: The Most Promising Near-Term Technique to Detect, Find  Masses, and Determine Three-Dimensional Orbits of Nearby Habitable Planets
+Levy-Lieb constrained-search formulation as a minimization of the  correlation functional
+Magnetic Fingerprints of sub-100 nm Fe Nanodots
+The decomposition method and Maple procedure for finding first integrals  of nonlinear PDEs of any order with any number of independent variables
+Kinematic Decoupling of Globular Clusters with Extended  Horizontal-Branch
+Convergence of the discrete dipole approximation. II. An extrapolation  technique to increase the accuracy
+Operator algebras associated with unitary commutation relations
+Evolution of a band insulating phase from a correlated metallic phase
+Hybrid-ARQ in Multihop Networks with Opportunistic Relay Selection
+On a Conjecture of EM Stein on the Hilbert Transform on Vector Fields
+Intelligent location of simultaneously active acoustic emission sources:  Part II
+Generalized Twistor Transform And Dualities, With A New Description of  Particles With Spin, Beyond Free and Massless
+Reality of linear and angular momentum expectation values in bound  states
+Gauge-Higgs Unification and LHC/ILC
+The Lifshitz-Slyozov-Wagner equation for reaction-controlled kinetics
+Multi-spectral Observations of Lunar Occultations: I. Resolving The Dust  Shell Around AFGL 5440
+Reciprocal Symmetry and Classical Discrete Oscillator Incorporating  Half-Integral Energy Levels
+Nonequilibrium entropy limiters in lattice Boltzmann methods
+Discovery of extreme asymmetry in the debris disk surrounding HD 15115
+The Expanding Photosphere Method: Progress and Problems
+Potfit: effective potentials from ab-initio data
+REM near-IR and optical multiband observations of PKS2155-304 in 2005
+IR observations of MS 1054-03: Star Formation and its Evolution in Rich  Galaxy Clusters
+Late-time tails of a Yang-Mills field on Minkowski and Schwarzschild  backgrounds
+Understanding the Flavor Symmetry Breaking and Nucleon Flavor-Spin  Structure within Chiral Quark Model
+On complete subsets of the cyclic group
+Quark matter and the astrophysics of neutron stars
+Scanning Tunneling Spectroscopy in the Superconducting State and Vortex  Cores of the beta-pyrochlore KOs2O6
+Wide Field Surveys and Astronomical Discovery Space
+$p$-adic Limit of Weakly Holomorphic Modular Forms of Half Integral  Weight
+Stability of a colocated finite volume scheme for the incompressible  Navier-Stokes equations
+The Return of a Static Universe and the End of Cosmology
+Evidence for an excitonic insulator phase in 1T-TiSe$_{2}$
+The Na I D resonance lines in main sequence late-type stars
+The Blue Straggler Population of the Globular Cluster M5
+An Inverse $f(R)$ Gravitation for Cosmic Speed up, and Dark Energy  Equivalent
+Structural relaxation around substitutional Cr3+ in MgAl2O4
+Availability assessment of SunOS/Solaris Unix Systems based on Syslogd  and wtmpx logfiles : a case study
+Quark-Antiquark and Diquark Condensates in Vacuum in a 3D Two-Flavor  Gross-Neveu Model
+B --> rho K* decays and other rare vector-vector modes
+Measurement of B(D_S^+ --> ell^+ nu) and the Decay Constant f_D_{S^+}
+The birth of string theory
+Orbifold cohomology of abelian symplectic reductions and the case of  weighted projective spaces
+Contrasting Two Transformation-Based Methods for Obtaining Absolute  Extrema
+Reconciling the X(3872) with the near-threshold enhancement in the  D^0\bar{D}^{*0} final state
+New possible properties of atomic nuclei investigated by non linear  methods: Fractal and recurrence quantification analysis
+On the Nonexistence of Nontrivial Involutive n-Homomorphisms of  C*-algebras
+On universality of critical behaviour in the focusing nonlinear  Schr\"odinger equation, elliptic umbilic catastrophe and the {\it  tritronqu\'ee} solution to the Painlev\'e-I equation
+The luminous infrared composite Seyfert 2 galaxy NGC 7679 through the [O  III] 5007 emission line
+The Genetic Programming Collaboration Network and its Communities
+Many-body interband tunneling as a witness for complex dynamics in the  Bose-Hubbard model
+Visible spectroscopic and photometric survey of Jupiter Trojans: final  results on dynamical families
+Stock market return distributions: from past to present
+Simultaneous Swift and REM monitoring of the blazar PKS0537-441 in 2005
+The core binary fractions of star clusters from realistic simulations
+Injective Morita contexts (revisited)
+Neutron Skin and Giant Resonances in Nuclei
+Towards Minimal Resources of Measurement-based Quantum Computation
+Strong Spherical Asymptotics for Rotor-Router Aggregation and the  Divisible Sandpile
+New Close Binary Systems from the SDSS-I (Data Release Five) and the  Search for Magnetic White Dwarfs in Cataclysmic Variable Progenitor Systems
+Three Particle Correlations from STAR
+A kind of prediction from string phenomenology: extra matter at low  energy
+PAH emission and star formation in the host of the z~2.56 Cloverleaf QSO
+Quasi-quartet crystal electric field ground state in a tetragonal  CeAg$_2$Ge$_2$ single crystal
+Evolution of solitary waves and undular bores in shallow-water flows  over a gradual slope with bottom friction
+Approximate solutions to the Dirichlet problem for harmonic maps between  hyperbolic spaces
+Bonding of H in O vacancies of ZnO
+Monitoring spatially heterogeneous dynamics in a drying colloidal thin  film
+To the origin of the difference of FSI phases in $B\to\pi\pi$ and  $B\to\rho\rho$ decays
+Necessary optimality conditions for the calculus of variations on time  scales
+Extended solar emission - an analysis of the EGRET data
+Maximum solutions of normalized Ricci flows on 4-manifolds
+Two-scale structure of the electron dissipation region during  collisionless magnetic reconnection
+Gorenstein locus of minuscule Schubert varieties
+Brane World Black Rings
+Photoproduction of pi0 omega off protons for E(gamma) < 3 GeV
+Collective excitations in a magnetically doped quantized Hall  ferromagnet
+Very strong and slowly varying magnetic fields as source of axions
+Probability distributions generated by fractional diffusion equations
+Convergence of the discrete dipole approximation. I. Theoretical  analysis
+Counting on rectangular areas
+The Sigma-D Relation for Planetary Nebulae: Preliminary Analysis
+Neutron-neutron scattering length from the reaction gamma d --> pi^+ nn  employing chiral perturbation theory
+Decoherence of Quantum-Enhanced Timing Accuracy
+An Extrasolar Planet Census with a Space-based Microlensing Survey
+A Low Complexity Algorithm and Architecture for Systematic Encoding of  Hermitian Codes
+Lessons Learned from the deployment of a high-interaction honeypot
+The Kilodegree Extremely Little Telescope (KELT): A Small Robotic  Telescope for Large-Area Synoptic Surveys
+Dynamics of Size-Selected Gold Nanoparticles Studied by Ultrafast  Electron Nanocrystallography
+Entropic Measure and Wasserstein Diffusion
+Detecting and Characterizing Planetary Systems with Transit Timing
+Second-Order Eikonal Corrections for A(e,e'p)
+On Existence of Boundary Values of Polyharmonic Functions
+The S-Matrix of AdS/CFT and Yangian Symmetry
+In-medium effects on particle production in heavy ion collisions
+Orthogonality criterion for banishing hydrino states from standard  quantum mechanics
+Phase separation and flux quantization in the doped quantum dimer model  on the square and triangular lattices
+Mass and Temperature of the TWA 7 Debris Disk
+Huge magneto-crystalline anisotropy of x-ray linear dichroism observed  on Co/FeMn bilayers
+Integral representations for convolutions of non-central multivariate  gamma distributions
+Magnetic fields in protoplanetary disks
+Theory of polariton mediated Raman scattering in microcavities
+The height dependence of temperature - velocity correlation in the solar  photosphere
+Iterated integral and the loop product
+Alternative Large Nc Schemes and Chiral Dynamics
+Some new experimental photonic flame effect features
+Invariance and the twisted Chern character : a case study
+Direct photons and dileptons via color dipoles
+Substructures in WINGS clusters
+White dwarf masses derived from planetary nebulae modelling
+Fabrication of half metallicity in a ferromagnetic metal
+Lattice Boltzmann inverse kinetic approach for the incompressible  Navier-Stokes equations
+Langmuir blodgett assembly of densely aligned single walled carbon  nanotubes from bulk materials
+Emergence of spatiotemporal chaos driven by far-field breakup of spiral  waves in the plankton ecological systems
+Why there is something rather than nothing (out of everything)?
+Strained single-crystal Al2O3 grown layer-by-layer on Nb (110) thin  films
+Using decomposed household food acquisitions as inputs of a Kinetic  Dietary Exposure Model
+Instanton representation of Plebanski gravity. Consistency of the  initital value constraints under time evolution
+New version announcement for TaylUR, an arbitrary-order diagonal  automatic differentiation package for Fortran 95
+Stopping effects in U+U collisions with a beam energy of 520 MeV/nucleon
+Topological Free Entropy Dimension of in Unital C^*-algebras
+Partially disordered state near ferromagnetic transition in MnSi
+Bibliometric statistical properties of the 100 largest European  universities: prevalent scaling rules in the science system
+Stable algebras of entire functions
+Extending the theory of phonon-mediated superconductivity in quasi-2D
+Terrestrial and Habitable Planet Formation in Binary and Multi-star  Systems
+Lower ground state due to counter-rotating wave interaction in trapped  ion system
+A Universality in PP-Waves
+A Multiphilic Descriptor for Chemical Reactivity and Selectivity
+Multiple Parton Scattering in Nuclei: Quark-quark Scattering
+Construction of initial data for 3+1 numerical relativity
+Revisiting the Issues On Netflow Sample and Export Performance
+GLAST and Dark Matter Substructure in the Milky Way
+Uniform measures and countably additive measures
+LRS Bianchi Type-V Viscous Fluid Universe With a Time Dependent  Cosmological Term $\Lambda$
+Quantum and Classical Spins on the Spatially Distorted Kagome Lattice:  Applications to Volborthite
+Kinetic equation for finite systems of fermions with pairing
+Nonlinear force-free coronal magnetic field extrapolation scheme based  on the direct boundary integral formulation
+Metropolis algorithm and equienergy sampling for two mean field spin  systems
+The Complexity of HCP in Digraps with Degree Bound Two
+Approximation of the distribution of a stationary Markov process with  application to option pricing
+Acceleration and localization of matter in a ring trap
+Opportunistic Relay Selection with Limited Feedback
+Universal Forces and the Dark Energy Problem
+Hilbert functions of points on Schubert varieties in Orthogonal  Grassmannians
+Preferential interaction coefficient for nucleic acids and other  cylindrical poly-ions
+Reexamination of spin decoherence in semiconductor quantum dots from  equation-of-motion approach
+Possible non-thermal nature of the soft-excess emission in the cluster  of galaxies Sersic 159-03
+Electromigrated nanoscale gaps for surface-enhanced Raman spectroscopy
+Linear perturbations of matched spacetimes: the gauge problem and  background symmetries
+Topology Change of Black Holes
+Quantum non-local effects with Bose-Einstein condensates
+On smooth foliations with Morse singularities
+Dynamics of a quantum phase transition in a ferromagnetic Bose-Einstein  condensate
+A geometric realization of sl(6,C)
+A schematic model of scattering in PT-symmetric Quantum Mechanics
+Failure of the work-Hamiltonian connection for free energy calculations
+A Spitzer census of the IC 348 nebula
+Quantum electromagnetic X-waves
+Evidence for a planetary companion around a nearby young star
+PI degree parity in q-skew polynomial rings
+Diffuse X-ray Emission from the Carina Nebula Observed with Suzaku
+On the dragging of light by a rotating medium
+Domain wall switching: optimizing the energy landscape
+Interactions, superconducting $T_c$, and fluctuation magnetization for  two coupled dots in the crossover between the Gaussian Orthogonal and Unitary  ensembles
+On Equivariant Embedding of Hilbert C^* modules
+Duality and Tameness
+Bursting Dynamics of the 3D Euler Equations in Cylindrical Domains
+Test vectors for trilinear forms, when two representations are  unramified and one is special
+Dark Matter annihilation in Draco: new considerations on the expected  gamma flux
+E_6 and the bipartite entanglement of three qutrits
+The Formation of Globular Cluster Systems in Massive Elliptical  Galaxies: Globular Cluster Multimodality from Radial Variation of Stellar  Populations
+Learning from compressed observations
+AKARI Detection of the Infrared-Bright Supernova Remnant B0104-72.3 in  the Small Magellanic Cloud
+Shaped angular dependence of the spin transfer torque and microwave  generation without magnetic field
+Unravelling the sbottom spin at the CERN LHC
+Evidence for a Massive Protocluster in S255N
+Cross-Layer Optimization of MIMO-Based Mesh Networks with Gaussian  Vector Broadcast Channels
+Dynamical Objects for Cohomologically Expanding Maps
+Scaling of Resistance and Electron Mean Free Path of Single-Walled  Carbon Nanotubes
+Exact Solutions of Einstein-Yang-Mills Theory with Higher-Derivative  Coupling
+Scalar potential model progress
+Infrared Evolution Equations: Method and Applications
+Driven activation versus thermal activation
+On packet lengths and overhead for random linear coding over the erasure  channel
+Complete Set of Polarization Transfer Observables for the $^{12}{\rm  C}(p,n)$ Reaction at 296 MeV and 0$^{\circ}$
+On the total disconnectedness of the quotient Aubry set
+Measurement of the Hadronic Form Factor in D0 --> K- e+ nue Decays
+Higher spin algebras as higher symmetries
+Interpolating and sampling sequences in finite Riemann surfaces
+On the number of moduli of plane sextics with six cusps
+The discrete dipole approximation for simulation of light scattering by  particles much larger than the wavelength
+d-wave superconductivity from electron-phonon interactions
+Entanglement entropy of two-dimensional Anti-de Sitter black holes
+Application of Ewald summations to long-range dispersion forces
+The few scales of nuclei and nuclear matter
+Group-theoretical properties of nilpotent modular categories
+Origamis with non congruence Veech groups
+Electromagnetic polarizabilities and the excited states of the nucleon
+Solvability of linear equations within weak mixing sets
+Generating Squeezed States of Nanomechanical Resonator
+Reply to Comment of Kenzelmann and Harris
+Proto-Neutron Star Winds, Magnetar Birth, and Gamma-Ray Bursts
+Approaching equilibrium and the distribution of clusters
+What can emission lines tell us?
+Spin coherence of holes in GaAs/AlGaAs quantum wells
+USco1606-1935: An Unusually Wide Low-Mass Triple System?
+Three dimensional cooling and trapping with a narrow line
+Quantitative Resolution to some "Absolute Discrepancies" in Cancer  Theories: a View from Phage lambda Genetic Switch
+The discrete dipole approximation: an overview and recent developments
+Dependence of the Critical Adsorption Point on Surface and Sequence  Disorders for Self-Avoiding Walks Interacting with a Planar Surface
+The Use of Weighting in Periodicity Searches in All-Sky Monitor Data:  Applications to the GLAST LAT
+Scalar radius of the pion and zeros in the form factor
+Galactic Wind Signatures around High Redshift Galaxies
+String inspired explanation for the super-acceleration of our universe
+Rigorous derivation of the mean field Green functions of the two-band  Hubbard model of superconductivity
+The Colin de Verdi\`ere number and graphs of polytopes
+Mixed chemistry phenomenon during late stages of stellar evolution
+Current - voltage characteristics of break junctions of high-$T_c$  superconductors
+Energy conservation and Onsager's conjecture for the Euler equations
+Algebraic geometry of Gaussian Bayesian networks
+Exploring the Variable Sky with the Sloan Digital Sky Survey
+Biased random walks on combs
+Fluctuation-dissipation relation on a Melde string in a turbulent flow,  considerations on a "dynamical temperature"
+Renewals for exponentially increasing lifetimes, with an application to  digital search trees
+Automated Generation of Layout and Control for Quantum Circuits
+Binaries, microquasars and GLAST
+Dynamical Casimir effect for gravitons in bouncing braneworlds
+Electromagnetic wormholes via handlebody constructions
+Generation of Large Number-Path Entanglement Using Linear Optics and  Feed-Forward
+Search for Chaotic Behavior in a Flapping Flag
+Scalar self-force on eccentric geodesics in Schwarzschild spacetime: a  time-domain computation
+Vacuum Structure and Potential
+Fundamental solutions for a class of non-elliptic homogeneous  differential operators
+Exactly solvable spin dynamics of an electron coupled to large number of  nuclei and the electron-nuclear spin echo in a quantum dot
+Equation-free implementation of statistical moment closures
+Gravitational Wave Signals from Chaotic System: A Point Mass with A Disk
+Geometric Phase and Superconducting Flux Quantization
+Effect of transition-metal elements on the electronic properties of  quasicrystals and complex aluminides
+Thermal entanglement of qubit pairs on the Shastry-Sutherland lattice
+Meta-Stable Brane Configuration of Product Gauge Groups
+The Solar Neighborhood. XIX. Discovery and Characterization of 33 New  Nearby White Dwarf Systems
+The Determination of the Helicity of $W'$ Boson Couplings at the LHC
+Towards Skyrmion Stars: Large Baryon Configurations in the  Einstein-Skyrme Model
+Evolutionary games on minimally structured populations
+Solutions of fractional reaction-diffusion equations in terms of the  H-function
+Entangling Independent Photons by Time Measurement
+Exploring First Stars Era with GLAST
+Leray numbers of projections and a topological Helly type theorem
+Possibility of Gapless Spin Liquid State by One-dimensionalization
+Polarizations of J/psi and psi(2S) Mesons Produced in ppbar Collisions  at 1.96 TeV
+General System theory, Like-Quantum Semantics and Fuzzy Sets
+Oscillation bands of condensates on a ring: Beyond the mean field theory
+Lagrangian quantum field theory in momentum picture. IV. Commutation  relations for free fields
+Experimental Test of the High-Frequency Quantum Shot Noise Theory in a  Quantum Point Contact
+A variation of Gronwall's lemma
+Trigonometric parallaxes of high velocity halo white dwarf candidates
+$\Bz\to\pip\pim\piz$ Time Dependent Dalitz analysis at BaBar
+Canonical singular hermitian metrics on relative canonical bundles
+Experimental Challenges Involved in Searches for Axion-Like Particles  and Nonlinear Quantum Electrodynamic Effects by Sensitive Optical Techniques
+Torsional oscillations of longitudinally inhomogeneous coronal loops
+The collision velocity of the bullet cluster in conventional and  modified dynamics
+Star Formation in the Bok Globule CB54
+On the KK-theory of strongly self-absorbing C*-algebras
+Search for Heavy, Long-Lived Particles that Decay to Photons at CDF II
+Ultrasound attenuation of superfluid $^{3}$He in aerogel
+A Survey of Huebschmann and Stasheff's Paper: Formal Solution of the  Master Equation via HPT and Deformation Theory
+Monoid generalizations of the Richard Thompson groups
+Effect of node deleting on network structure
+A Finite Element framework for computation of protein normal modes and  mechanical response
+Difermion condensates in vacuum in 2-4D four-fermion interaction models
+Modeling the field of laser welding melt pool by RBFNN
+Extragalactic Radio Sources and the WMAP Cold Spot
+Teleparallel Version of the Stationary Axisymmetric Solutions and their  Energy Contents
+Bremsstrahlung Radiation At a Vacuum Bubble Wall
+Effective band-structure in the insulating phase versus strong dynamical  correlations in metallic VO2
+Resonant activation in bistable semiconductor lasers
+Long Gamma-Ray Burst Progenitors: Boundary Conditions and Binary Models
+Cluster properties from two-particle angular correlations in p+p  collisions at $\sqrt{s}$ = 200 and 410 GeV
+Charges from Attractors
+A Hierarchical Approach for Dependability Analysis of a Commercial  Cache-Based RAID Storage Architecture
+Topological phase for spin-orbit transformations on a laser beam
+The World as Evolving Information
+Correlation functions and excitation spectrum of the frustrated  ferromagnetic spin-1/2 chain in an external magnetic field
+On the Origin of the Dichotomy of Early-Type Galaxies: The Role of Dry  Mergers and AGN Feedback
+Magnetospectroscopy of epitaxial few-layer graphene
+9.7 micrometer Silicate Absorption in a Damped Lyman-alpha Absorber at  z=0.52
+Are There Mach Cones in Heavy Ion Collisions? Three-Particle  Correlations from STAR
+The Mass and Radius of the Unseen M-Dwarf Companion in the Single-Lined  Eclipsing Binary HAT-TR-205-013
+Non-resonant and Resonant X-ray Scattering Studies on Multiferroic  TbMn2O5
+Common Envelope Evolution Redux
+On the homology of two-dimensional elimination
+The Low CO Content of the Extremely Metal Poor Galaxy I Zw 18
+A Topological Glass
+Generic character sheaves on disconnected groups and character values
+Non-Equilibrium Josephson and Andreev Current through Interacting  Quantum Dots
+Algorithm for anisotropic diffusion in hydrogen-bonded networks
+Position-Velocity Diagrams for the Maser Emission coming from a  Keplerian Ring
+A Direct Method for Solving Optimal Switching Problems of  One-Dimensional Diffusions
+Spline Single-Index Prediction Model
+Star Formation in Galaxies with Large Lower Surface Brightness Disks
+Formation of quasi-solitons in transverse confined ferromagnetic film  media
+Constraints on the Self-Interaction Cross-Section of Dark Matter from  Numerical Simulations of the Merging Galaxy Cluster 1E 0657-5
+CalFUSE v3: A Data-Reduction Pipeline for the Far Ultraviolet  Spectroscopic Explorer
+Feedback from first radiation sources: H- photodissociation
+Approximate Selection Rule for Orbital Angular Momentum in Atomic  Radiative Transitions
+Density matrix elements and entanglement entropy for the spin-1/2 XXZ  chain at $\Delta$=1/2
+Renormgroup origin and analysis of Split Higgsino scenario
+Two-proton radioactivity and three-body decay. IV. Connection to  quasiclassical formulation
+Protein and ionic surfactants - promoters and inhibitors of contact line  pinning
+The effect of a fifth large-scale space-time dimension on the  conservation of energy in a four dimensional Universe
+Search for a fourth generation b'-quark at LEP-II at sqrt{s}=196-209 GeV
+Modelling the Near-IR Spectra of Red Supergiant-dominated Populations
+High-spin to low-spin and orbital polarization transitions in  multiorbital Mott systems
+Equation of state for dense hydrogen and plasma phase transition
+Littlewood-Richardson polynomials
+Specific heat and bimodality in canonical and grand canonical versions  of the thermodynamic model
+Optimal control of stochastic differential equations with dynamical  boundary conditions
+Constraining the Dark Energy Equation of State with Cosmic Voids
+A unified approach to SIC-POVMs and MUBs
+Uniqueness theorems for Cauchy integrals
+Optical spectrum of the post-AGB star HD56126 in the region 4010-8790 AA
+Predicting the frequencies of diverse exo-planetary systems
+Temporal Evolution of Step-Edge Fluctuations Under Electromigration  Conditions
+Ising-like dynamics and frozen states in systems of ultrafine magnetic  particles
+Empirical analysis and statistical modeling of attack processes based on  honeypots
+Magnetism and Thermodynamics of Spin-1/2 Heisenberg Diamond Chains in a  Magnetic Field
+Alternative Approaches to the Equilibrium Properties of Hard-Sphere  Liquids
+Energy density for chiral lattice fermions with chemical potential
+A Global Approach to the Theory of Special Finsler Manifolds
+Effects of Dirac sea on pion propagation in asymmetric nuclear matter
+Universe Without Singularities. A Group Approach to De Sitter Cosmology
+On the HOMFLY and Tutte polynomials
+Spinor Dynamics in an Antiferromagnetic Spin-1 Condensate
+Giant Planet Migration in Viscous Power-Law Discs
+Locating the peaks of least-energy solutions to a quasilinear elliptic  Neumann problem
+Search for Heavy Neutral MSSM Higgs Bosons with CMS: Reach and  Higgs-Mass Precision
+Testing outer boundary treatments for the Einstein equations
+On the potential of transit surveys in star clusters: Impact of  correlated noise and radial velocity follow-up
+Matter-Wave Bright Solitons with a Finite Background in Spinor  Bose-Einstein Condensates
+The evolution of the Earth-Moon system based on the dark matter field  fluid model
+The lifetime of unstable particles in electromagnetic fields
+A microfluidic device based on droplet storage for screening solubility  diagrams
+Shocks in nonlocal media
+Quantum Group of Isometries in Classical and Noncommutative Geometry
+Circuit QED with a Flux Qubit Strongly Coupled to a Coplanar  Transmission Line Resonator
+Nonlinear Dynamics of the Phonon Stimulated Emission in Microwave  Solid-State Resonator of the Nonautonomous Phaser Generator
+Isotopic Effects in Nuclear Reactions at Relativistic Energies
+Turbulent Diffusion of Lines and Circulations
+Viscosity, Black Holes, and Quantum Field Theory
+Near-Infrared Spectra of the Black Hole X-Ray Binary, A0620-00
+About curvature, conformal metrics and warped products
+Complete Shrinking Ricci Solitons have Finite Fundamental Group
+Neel order in the two-dimensional S=1/2 Heisenberg Model
+Transient behavior of surface plasmon polaritons scattered at a  subwavelength groove
+Quantum superpositions and entanglement of thermal states at high  temperatures and their applications to quantum information processing
+3D photospheric velocity field of a Supergranular cell
+Strong decays of charmed baryons
+A priori estimates for weak solutions of complex Monge-Amp\`ere  equations
+Semi-spheroidal Quantum Harmonic Oscillator
+Conduction electron spin-lattice relaxation time in the MgB2  superconductor
+The Hourglass - Consequences of Pure Hamiltonian Evolution of a  Radiating System
+Decomposition numbers for finite Coxeter groups and generalised  non-crossing partitions
+Jumping Through Loops: On Soft Terms from Large Volume Compactifications
+Connected Operators for the Totally Asymmetric Exclusion Process
+Geometric Complexity Theory V: On deciding nonvanishing of a generalized  Littlewood-Richardson coefficient
+Quantum mechanical approach to decoherence and relaxation generated by  fluctuating environment
+AMR simulations of the low T/|W| bar-mode instability of neutron stars
+Shaping the Globular Cluster Mass Function by Stellar-Dynamical  Evaporation
+Differential Recursion and Differentially Algebraic Functions
+Invariants of Triangular Lie Algebras
+Nonimmersions of RP^n implied by tmf, revisited
+Non-extensive thermodynamics of 1D systems with long-range interaction
+Photons as quasi-charged particles
+Dual billiards, Fagnano orbits and regular polygons
+Towards self-consistent definition of instanton liquid parameters
+Einstein vs Maxwell: Is gravitation a curvature of space, a field in  flat space, or both?
+Study on Correlations between the Twin Kilohertz Quasi-periodic  Oscillations in Low-mass X-ray Binaries
+Noncommutative Electromagnetism As A Large N Gauge Theory
+Linkedness and ordered cycles in digraphs
+The Reliability on the Direction of the Incident Neutrino for the Fully  Contained Events and Partially Contained Events due to QEL in the  Super-Kamiokande
+Intelligent location of simultaneously active acoustic emission sources:  Part I
+A Rigorous Time-Domain Analysis of Full--Wave Electromagnetic Cloaking  (Invisibility)
+Thermal decomposition of norbornane (bicyclo[2.2.1]heptane) dissolved in  benzene. Experimental study and mechanism investigation
+Electromagnetic structure and weak decay of meson K in a light-front  QCD-inspired
+Sterile neutrinos at the CNGS
+Multiscale model of electronic behavior and localization in stretched  dry DNA
+Spin state mixing in InAs double quantum dots
+Actions for the Bosonic String with the Curved Worldsheet
+Composite fermion wave functions as conformal field theory correlators
+Density dependent hadronic models and the relation between neutron stars  and neutron skin thickness
+Enhanced quantum Zeno effect and bunching in the decay of interacting  bosons from an unstable state
+Transfer of a Polaritonic Qubit through a Coupled Cavity Array
+Implication of the D^0 Width Difference On CP-Violation in D^0-\bar D^0  Mixing
+Pseudo-random Puncturing: A Technique to Lower the Error Floor of Turbo  Codes
+Timing evidence in determining the accretion state of the Seyfert galaxy  NGC 3783
+Topological defects, geometric phases, and the angular momentum of light
+Interface dynamics of microscopic cavities in water
+One-dimensional Brownian particle systems with rank dependent drifts
+Measurement of D0-D0bar mixing in D0->Ks pi+ pi- decays
+Dark energy interacting with neutrinos and dark matter: a  phenomenological theory
+Clustering features of $^9$Be, $^{14}$N, $^7$Be, and $^8$B nuclei in  relativistic fragmentation
+Gamma-ray emitting AGN and GLAST
+Testing turbulence model at metric scales with mid-infrared VISIR images  at the VLT
+Viscoplastic Properties and Tribological Behavior of Diamond-Like Carbon  Films Using Nanoindentation and Nanoscratch Tests
+On thermal effects in solid state lasers: the case of ytterbium-doped  materials
+Membrane in M5-branes Background
+Hamiltonian formalism in Friedmann cosmology and its quantization
+A density tensor hierarchy for open system dynamics: retrieving the  noise
+Lifetime of doubly charmed baryons
+Modeling Accretion Disk X-ray Continuum of Black Hole Candidates
+Half-metallic silicon nanowires
+Lower order terms in the 1-level density for families of holomorphic  cuspidal newforms
+Unit groups of integral finite group rings with no noncyclic abelian  finite subgroups
+On the (3,N) Maurer-Cartan equation
+Complexities of Human Promoter Sequences
+Proposal for an Enhanced Optical Cooling System Test in an Electron  Storage Ring
+The concrete theory of numbers: initial numbers and wonderful properties  of numbers repunit
+Braided quantum field theories and their symmetries
+Instanton Liquid at Finite Temperature and Chemical Potential of Quarks
+Linearisation of finite abelian subgroups of the Cremona group of the  plane
+The Spitzer c2d Survey of Large, Nearby, Interstellar Clouds VIII.  Serpens Observed with MIPS
+Lower bounds for the conductivities of correlated quantum systems
+Compatibility of radial, Lorenz and harmonic gauges
+Coincidence of the oscillations in the dipole transition and in the  persistent current of narrow quantum rings with two electrons
+Super-shell structures and pairing in ultracold trapped Fermi gases
+Rotation Measures of Extragalactic Sources Behind the Southern Galactic  Plane: New Insights into the Large-Scale Magnetic Field of the Inner Milky  Way
+Elativistic treatment in}$D$ - Dimensions to a spin-zero particle with  noncentral equal scalar and vector ring-shaped Kratzer potential
+Dust Formation and Survival in Supernova Ejecta
+Higher ramification and varieties of secant divisors on the generic  curve
+Percolation Modeling of Conductance of Self-Healing Composites
+Composite Structure and Causality
+Stochastic Lie group integrators
+Polymer Quantum Mechanics and its Continuum Limit
+2D-MIT as self-doping of a Wigner-Mott insulator
+The Hardy-Lorentz Spaces $H^{p,q}(R^n)$
+Generalized Nariai Solutions for Yang-type Monopoles
+Smooth maps with singularities of bounded K-codimensions
+Comparison of exact-exchange calculations for solids in  current-spin-density- and spin-density-functional theory
+General sequential quantum cloning
+Fermionic superstring loop amplitudes in the pure spinor formalism
+Some properties of the complex Monge-Ampere operator in Cegrell's  classes and applications
+Geometry of Locally Compact Groups of Polynomial Growth and Shape of  Large Balls
+Dissipative backward stochastic differential equations with locally  Lipschitz nonlinearity
+Does the present data on B_s - bar B_s mixing rule out a large  enhancement in the branching ratio of B_s --> mu+ mu- ?
+Remnant evolution after a carbon-oxygen white dwarf merger
+Hyperbolicity in unbounded convex domains
+Super Star Cluster Velocity Dispersions and Virial Masses in the M82  Nuclear Starburst
+Cofibrations in the Category of Frolicher Spaces. Part I
+Observation of Spin-Orbit Berry's Phase in Magnetoresistance of a  Two-Dimensional Hole Anti-dot System
+Capturing knots in polymers
+Hydrodynamic and Spectral Simulations of HMXB Winds
+Coulomb blockade of field emission from nanoscale conductors
+Electronic structure of kinetic energy driven superconductors in the  presence of bilayer splitting
+Weak and Strong Taylor methods for numerical solutions of stochastic  differential equations
+Structure of Strange Dwarfs with Color Superconducting Core
+Solving The High Energy Evolution Equation Including Running Coupling  Corrections
+The tensor part of the Skyrme energy density functional. I. Spherical  nuclei
+Distribution of the molecular absorption in front of the quasar  B0218+357
+Partial cubes: structures, characterizations, and constructions
+Confinement into a state with persistent current by thermal quenching of  loop of Josephson junctions
+Domain Wall Dynamics near a Quantum Critical Point
+A critical theory of quantum entanglement for the Hydrogen molecule
+General Relativity Today
+The Radio Emission, X-ray Emission, and Hydrodynamics of G328.4+0.2: A  Comprehensive Analysis of a Luminous Pulsar Wind Nebula, its Neutron Star,  and the Progenitor Supernova Explosion
+Supernova Polarization and the Type IIn Classification
+Many-to-One Throughput Capacity of IEEE 802.11 Multi-hop Wireless  Networks
+Local de Broglie-Bohm Trajectories from Entangled Wavefunctions
+A very massive runaway star from Cygnus OB2
+Some aspects of the nonperturbative renormalization of the phi^4 model
+Rich methane premixed laminar flames doped by light unsaturated  hydrocarbons - Part I : allene and propyne
+The Sloan Digital Sky Survey Quasar Catalog IV. Fifth Data Release
+Sensor Networks with Random Links: Topology Design for Distributed  Consensus
+Eternal inflation and localization on the landscape
+Photoconductance of organic single-molecule contacts
+Bounds on Negativity of Superpositions
+X-ray Timing Observations of PSR J1930+1852 in the Crab-like SNR  G54.1+0.3
+Cosmology from String Theory
+Influence of Phonon dimensionality on Electron Energy Relaxation
+Broadening the Higgs Boson with Right-Handed Neutrinos and a Higher  Dimension Operator at the Electroweak Scale
+A Symplectic Test of the L-Functions Ratios Conjecture
+Computation of Power Loss in Likelihood Ratio Tests for Probability  Densities Extended by Lehmann Alternatives
+Hamilton-Jacobi Fractional Sequential Mechanics
+Moduli spaces of rational tropical curves
+The Spitzer c2d Survey of Large, Nearby, Insterstellar Clouds. IX. The  Serpens YSO Population As Observed With IRAC and MIPS
+Modeling the Spectral Energy Distribution and Variability of 3C 66A  during the WEBT campaign of 2003 -- 2004
+Synergistic Effects of MoDTC and ZDTP on Frictional Behaviour of  Tribofilms at the Nanometer Scale
+Nuclear Spin Effects in Optical Lattice Clocks
+Test of nuclear level density inputs for Hauser-Feshbach model  calculations
+Z^0 \to 2\gamma and the Twisted Coproduct of the Poincar\'{e} Group
+The Millennium Galaxy Catalogue: The local supermassive black hole mass  function in early- and late-type galaxies
+Self-diffusion and Interdiffusion in Al80Ni20 Melts: Simulation and  Experiment
+Symmetries by base substitutions in the genetic code predict 2' or 3'  aminoacylation of tRNAs
+Measurement of the Decay Constant $f_D{_S^+}$ using $D_S^+ --> ell^+ nu
+The Cosmic Foreground Explorer (COFE): A balloon-borne microwave  polarimeter to characterize polarized foregrounds
+Kadowaki-Woods Ratio of Strongly Coupled Fermi Liquids
+Spin-orbit coupling effect on the persistent currents in mesoscopic ring  with an Anderson impurity
+Intersection Bodies and Generalized Cosine Transforms
+Birth, survival and death of languages by Monte Carlo simulation
+Mapping the circumstellar SiO maser emission in R Leo
+Fluctuations in glassy systems
+Counting characters in linear group actions
+X-ray Dichroism and the Pseudogap Phase of Cuprates
+Rigorous Results for the Periodic Oscillation of an Adiabatic Piston
+Spin Evolution of Accreting Neutron Stars: Nonlinear Development of the  R-mode Instability
+Conformal Field Theory and Operator Algebras
+Effective conservation of energy and momentum algorithm using switching  potentials suitable for molecular dynamics simulation of thermodynamical  systems
+A measure of the non-Gaussian character of a quantum state
+Optical properties of the Holstein-t-J model from dynamical mean-field  theory
+A generalization of Chebyshev polynomials and non rooted posets
+Modeling the three-point correlation function
+A New Model For The Loop-I (The North Polar Spur) Region
+Mapping radii of metric spaces
+New algebraic aspects of perturbative and non-perturbative Quantum Field  Theory
+Bianchi Type I Massive String Magnetized Barotropic Perfect Fluid  Cosmological Model in General Relativity
+Spin accumulation from the non-Abelian Aharonov-Bohm effect
+Long Distance Signaling Using Axion-like Particles
+Cosmogenic neutrinos as a probe of the transition from Galactic to  extragalactic cosmic rays
+An integral field spectroscopic survey for high redshift damped  Lyman-alpha galaxies
+Mediatic graphs
+On line arrangements with applications to 3-nets
+Fuzzballs with internal excitations
+Inference on white dwarf binary systems using the first round Mock LISA  Data Challenges data sets
+The First Law for Boosted Kaluza-Klein Black Holes
+The small deviations of many-dimensional diffusion processes and  rarefaction by boundaries
+SDSS J233325.92+152222.1 and the evolution of intermediate polars
+The Blazar Spectral Sequence and GLAST
+Quivers with potentials and their representations I: Mutations
+On reference frames in spacetime and gravitational energy in freely  falling frames
+Placeholder Substructures II: Meta-Fractals, Made of Box-Kites, Fill  Infinite-Dimensional Skies
+Galaxy morphologies and environment in the Abell 901/902 supercluster  from COMBO-17
+An individual based model with global competition interaction:  fluctuations effects in pattern formation
+Some combinatorial aspects of differential operation compositions on  space $R^n$
+A binary model for the UV-upturn of elliptical galaxies (MNRAS version)
+Epitaxial graphene
+Comments on ``Are Swift Gamma-Ray Bursts consistent with the Ghirlanda  relation?", by Campana et al.(astro--ph/0703676)
+Experimental modeling of physical laws
+Finite-temperature phase transitions in a two-dimensional boson Hubbard  model
+Vortex-induced topological transition of the bilinear-biquadratic  Heisenberg antiferromagnet on the triangular lattice
+Neutrinos and Non-proliferation in Europe
+Nonstationary pattern in unsynchronizable complex networks
+Testing String Theory with CMB
+Generic representations of orthogonal groups: projective functors in the  category Fquad
+M-regularity of the Fano surface
+A non-perturbative proof of Bertrand's theorem
+Daemons and DAMA: Their Celestial-Mechanics Interrelations
+QED for fields obeying a square root operator equation
+Competitive nucleation and the Ostwald rule in a generalized Potts model  with multiple metastable phases
+The exact asymptotic of the collision time tail distribution for  independent Brownian particles with different drifts
+Optimal Synthesis of Multiple Algorithms
+Dielectronic Recombination of Fe XV forming Fe XIV: Laboratory  Measurements and Theoretical Calculations
+Glueball Masses in (2+1)-Dimensional Anisotropic Weakly-Coupled  Yang-Mills Theory
+Kinks and Particles in Non-integrable Quantum Field Theories
+Three Different Types of Galaxy Alignment within Dark Matter Halos
+Detailed kinetic study of the ring opening of cycloalkanes by CBS-QB3  calculations
+Reducing SAT to 2-SAT
+Pfaffians, hafnians and products of real linear functionals
+Much ado about 248
+Circular and non-circular nearly horizon-skimming orbits in Kerr  spacetimes
+Formation of density singularities in ideal hydrodynamics of freely  cooling inelastic gases: a family of exact solutions
+Extension theorems of Sakai type for separately holomorphic and  meromorphic functions
+When the Cramer-Rao Inequality provides no information
+Axiom A polynomial skew products of C^2 and their postcritical sets
+Random Matrix Theory at Nonzero $\mu$ and $T$
+Voltage-Current curves for small Josephson junction arrays
+Construction of Complete Embedded Self-Similar Surfaces under Mean  Curvature Flow. Part II
+Quantum criticality and disorder in the antiferromagnetic critical point  of NiS$_{2}$ pyrite
+Vortex proliferation in the Berezinskii-Kosterlitz-Thouless regime on a  two-dimensional lattice of Bose-Einstein condensates
+Statistical analysis of weighted networks
+Effective potentials for quasicrystals from ab-initio data
+From dyadic $\Lambda_{\alpha}$ to $\Lambda_{\alpha}$
+Density dependence of the symmetry energy and the nuclear equation of  state: A Dynamical and Statistical model perspective
+Investigation of Colour Reconnection in WW Events with the DELPHI  detector at LEP-2
+Photon splitting in a laser field
+Periodic accretion from a circumbinary disk in the young binary UZ Tau E
+Average optimality for risk-sensitive control with general state space
+Diatomic molecule as a quantum entanglement switch
+Nova Geminorum 1912 and the Origin of the Idea of Gravitational Lensing
+Solar System Constraints on Gauss-Bonnet Mediated Dark Energy
+Remarks on N_c dependence of decays of exotic baryons
+Fragmentation of general relativistic quasi-toroidal polytropes
+Rigid subsets of symplectic manifolds
+New simple modular Lie superalgebras as generalized prolongs
+Second Order Perturbative Calculation of Quasinormal Modes of  Schwarzschild Black Holes
+In quest of a generalized Callias index theorem
+The Graham conjecture implies the Erdos-Turan conjecture
+Black hole puncture initial data with realistic gravitational wave  content
+Correlation functions in the Non Perturbative Renormalization Group and  field expansion
+Two new basaltic asteroids in the Outer Main Belt?
+Signal for space-time noncommutativity: the Z -> gamma gamma decay in  the renormalizable gauge sector of the theta-expanded NCSM
+The effectiveness of quantum operations for eavesdropping on sealed  messages
+Sum-over-states vs quasiparticle pictures of coherent correlation  spectroscopy of excitons in semiconductors; femtosecond analogues of  multidimensional NMR
+The HARPS search for southern extra-solar planets. X. A m sin i = 11  Mearth planet around the nearby spotted M dwarf GJ 674
+Quantum Auctions
+Nilpotent symmetry invariance in the superfield formulation: the  (non-)Abelian 1-form gauge theories
+Ample subvarieties and rationally connected fibrations
+Phonon instability and structural phase transition in Vanadium under  high pressure
+Axino warm dark matter and $\Omega_b - \Omega_{DM}$ coincidence
+Measurement of the Aerosol Phase Function at the Pierre Auger  Observatory
+The affine part of the Picard scheme
+K_0-theory of n-potents in rings and algebras
+The density of critical percolation clusters touching the boundaries of  strips and squares
+A Dark Energy model combining DGP gravity and Chaplygin gas
+A variational formulation of electrodynamics with external sources
+Phase structure of a surface model on dynamically triangulated spheres  with elastic skeletons
+Hawking radiation of linear dilaton black holes
+Entanglement increase from local interactions with  not-completely-positive maps
+Millimeter-Thick Single-Walled Carbon Nanotube Forests: Hidden Role of  Catalyst Support
+A Study of $B_{d}^0 \to J/\Psi \eta^{(\prime)}$ Decays in the pQCD  Approach
+A thermodynamic model for the melting of supported metal nanoparticles
+Spin coupling in zigzag Wigner crystals
+Constraints on the Interactions between Dark Matter and Baryons from the  X-ray Quantum Calorimetry Experiment
+On Punctured Pragmatic Space-Time Codes in Block Fading Channel
+$C^r$-Lohner algorithm
+An S_3-symmetric Littlewood-Richardson rule
+Spin and pseudospin symmetries and the equivalent spectra of  relativistic spin-1/2 and spin-0 particles
+Flavor Composition and Energy Spectrum of Astrophysical Neutrinos
+Stringy Jacobi fields in Morse theory
+A determinant of Stirling cycle numbers counts unlabeled acyclic  single-source automata
+P-adic arithmetic coding
+Number of moduli of irreducible families of plane curves with nodes and  cusps
+The dynamical Casimir effect in braneworlds
+A POVM view of the ensemble approach to polarization optics
+D-brane Instantons on the T^6/Z_3 orientifold
+Correlated modulation between the redshifted Fe K alpha line and the  continuum emission in NGC 3783
+Groups with finitely many conjugacy classes and their automorphisms
+Temperature Dependence of the Tensile Properties of Single Walled Carbon  Nanotubes: O(N) Tight Binding MD Simulation
+Gravitational Duality Transformations on (A)dS4
+Upper bounds on entangling rates of bipartite Hamiltonians
+I-V characteristics of the vortex state in MgB2 thin films
+Leaky modes of a left-handed slab
+On second order shape optimization methods for electrical impedance  tomography
+`St\"uckelberg interferometry' with ultracold molecules
+Recovering galaxy star formation and metallicity histories from spectra  using VESPA
+Dust and gas emission in the prototypical hot core G29.96-0.02 at  sub-arcsecond resolution
+On Ando's inequalities for convex and concave functions
+Geometric phase of an atom inside an adiabatic radio frequency potential
+Fusion process studied with preequilibrium giant dipole resonance in  time dependent Hartree-Fock theory
+An online repository of Swift/XRT light curves of GRBs
+The HELLAS2XMM survey. X. The bolometric output of luminous obscured  quasars: The Spitzer perspective
+An architecture-based dependability modeling framework using AADL
+A computer program for fast non-LTE analysis of interstellar line  spectra
+The bimodality of type Ia Supernovae
+Molecular circuits based on graphene nano-ribbon junctions
+Intricate Knots in Proteins: Function and Evolution
+Vortex Dynamics at the Initial Stage of Resistive Transition in  Superconductors with Fractal Cluster Structure
+Non-perturbative conserving approximations and Luttinger's sum rule
+Numerical solution of shock and ramp compression for general material  properties
+Exotic Hadron in Pole-dominated QCD Sum Rules
+Reduced and Extended Weak Coupling Limit
+Tuning correlation effects with electron-phonon interactions
+Vertical dynamics of disk galaxies in MOND
+A Contraction Theory Approach to Stochastic Incremental Stability
+The Fermionic Density-functional at Feshbach Resonance
+Causal dissipative hydrodynamics for QGP fluid in 2+1 dimensions
+Sparsely-spread CDMA - a statistical mechanics based analysis
+Disorder screening near the Mott-Anderson transition
+The dissolution of the vacancy gas and grain boundary diffusion in  crystalline solids
+The Arctic Circle Revisited
+Thermally Stimulated Luminescence and Current in new heterocyclic  materials for Organic field transistors and organic light emitting diodes
+Crystal channeling of LHC forward protons with preserved distribution in  phase space
+Multiple Unfoldings of Orbifold Singularities: Engineering Geometric  Analogies to Unification
+Probing dark energy with steerable wavelets through correlation of WMAP  and NVSS local morphological measures
+The effect of Topcolor Assisted Technicolor, and other models, on  Neutrino Oscillation
+Quantifying social group evolution
+The Relationship Between Molecular Gas Tracers and Kennicutt-Schmidt  Laws
+D-\bar D mixing and rare D decays in the Littlest Higgs model with  non-unitarity matrix
+Coherent control of atomic tunneling
+Capacity of a Multiple-Antenna Fading Channel with a Quantized Precoding  Matrix
+Temperature dependence of Coulomb drag between finite-length quantum  wires
+Sparsity-certifying Graph Decompositions
+Polarization properties of subwavelength hole arrays consisting of  rectangular holes
+A unified approach to the theory of separately holomorphic mappings
+Limit distributions and scaling functions
+Relativistic treatment in D-dimensions to a spin-zero particle with  noncentral equal scalar and vector ring-shaped Kratzer potential
+Model C critical dynamics of random anisotropy magnets
+Quantum Phase Transition in the Four-Spin Exchange Antiferromagnet
+Skew-Hadamard matrices of orders 188 and 388 exist
+Review: Semiconductor Quantum Light Sources
+Fractional WKB Approximation
+Ab initio Study of Graphene on SiC
+A limit relation for entropy and channel capacity per unit cost
+Electroweak phase transitions in the MSSM with an extra $U(1)'$
+Oriented growth of pentacene films on vacuum-deposited  polytetrafluoroethylene layers aligned by rubbing technique
+A Comparison between Anomalous 6-cm H$_2$CO Absorption and CO(1-0)  Emission in the L1204/S140
+On the over-barrier reflection in quantum mechanics with multiple  degrees of freedom
+Displacement of the Sun from the Galactic Plane
+Dramatic Variability of X-ray Absorption Lines in the Black Hole  Candidate Cygnus X-1
+CP violation in beauty decays
+A general approach to statistical modeling of physical laws:  nonparametric regression
+A Single Trapped Ion as a Time-Dependent Harmonic Oscillator
+Chandra Observations of Supernova 1987A
+Classification of superpotentials
+Geometric Complexity Theory VI: the flip via saturated and positive  integer programming in representation theory and algebraic geometry
+Fractionally charged excitations on frustrated lattices
+Flory-Huggins theory for the solubility of heterogeneously-modified  polymers
+Nuclear forces from chiral effective field theory
+D0-anti-D0 Mixing and CP Violation in D0 vs anti-D0 to K*(+-) K(-+)  Decays
+Bose-Einstein correlations of direct photons in Au+Au collisions at  $\sqrt{s_{NN}} = 200$ GeV
+Mid-Infrared Fine Structure Line Ratios in Active Galactic Nuclei  Observed with Spitzer IRS: Evidence for Extinction by the Torus
+Growing Perfect Decagonal Quasicrystals by Local Rules
+Spectroscopic Observations of the Intermediate Polar EX Hydrae in  Quiescence
+Magnetoconductance oscillations in metallic rings and decoherence due to  electron-electron interaction
+Coulomb blockade of anyons
+Nodeless d-wave superconducting pairing due to residual  antiferromagnetism in underdoped Pr$_{2-x}$Ce$_x$CuO$_{4-\delta}$
+Frequency modulation Fourier transform spectroscopy
+Distribution of integral Fourier Coefficients of a Modular Form of Half  Integral Weight Modulo Primes
+Clustering in a stochastic model of one-dimensional gas
+Supersymmetry breaking metastable vacua in runaway quiver gauge theories
+Crossover behavior in fluids with Coulomb interactions
+Continuous interfaces with disorder: Even strong pinning is too weak in  2 dimensions
+Dimensional crossover of thermal conductance in nanowires
+$p$-Adic Haar multiresolution analysis
+Spontaneous Lorentz Violation: Non-Abelian Gauge Fields as  Pseudo-Goldstone Vector Bosons
+Bounds for Multiplicities of Unitary Representations of Cohomological  Type in Spaces of Cusp Forms
+Theoretical Status of Pentaquarks
+Jet-disturbed molecular gas near the Seyfert 2 nucleus in M51
+Analytic solutions for marginal deformations in open superstring field  theory
+Yield Curve Shapes and the Asymptotic Short Rate Distribution in Affine  One-Factor Models
+HI velocity dispersion in NGC 1058
+Compounding Fields and Their Quantum Equations in the Trigintaduonion  Space
+Two-proton radioactivity and three-body decay. III. Integral formulae  for decay widths in a simplified semianalytical approach
+Correlation amplitude and entanglement entropy in random spin chains
+The HARPS search for southern extra-solar planets. IX. Exoplanets  orbiting HD 100777, HD 190647, and HD 221287
+Reparametrization Invariance, the controversial extraction of $\alpha$  from $B\to\pi\pi$ and New Physics
+Experimental efforts in search of 76Ge Neutrinoless Double Beta Decay
+Strong Phase and $D^0-D^0bar$ mixing at BES-III
+VLBI observations of nineteen GHz-Peaked-Spectrum radio sources at 1.6  GHz
+Genetic Optimization of Photonic Bandgap Structures
+Long-range correlation and multifractality in Bach's Inventions pitches
+Approaching the Heisenberg limit in an atom laser
+The Mathematical Universe
+q-Deformed spin foam models of quantum gravity
+Evidence of Spatially Inhomogeous Pairing on the Insulating Side of a  Disorder-Tuned Superconductor-Insulator Transition
+On the pseudospectrum of elliptic quadratic differential operators
+L^2 rho form for normal coverings of fibre bundles
+Anomalous pressure behavior of tangential modes in single-wall carbon  nanotubes
+Reactor Monitoring with Neutrinos
+Dark energy and neutrino model in SUSY -- Remarks on active and sterile  neutrinos mixing --
+The Isophotal Structure of Early-Type Galaxies in the SDSS: Dependence  on AGN Activity and Environment
+Extrasolar scale change in Newton's Law from 5D `plain' R^2-gravity
+Entanglement of Subspaces and Error Correcting Codes
+On the number of topological types occurring in a parametrized family of  arrangements
+New Organic thermally stable materials for optoelectronics devices - A  linear spectroscopy study
+Coherent macroscopic quantum tunneling in boson-fermion mixtures
+Vortices in Bose-Einstein Condensates: Theory
+Masers and star formation
+Extra dimensions and Lorentz invariance violation
+Global well-posedness and scattering for the energy-critical, defocusing  Hartree equation for radial data
+Parsimony via concensus
+Jet interactions in massive X-ray binaries
+Investigation of relaxation phenomena in high-temperature  superconductors HoBa2Cu3O7-d at the action of pulsed magnetic fields
+Reply to 'Comment on 'Heavy element production in inhomogeneous big bang  nucleosynthesis''
+Bosonic characters of atomic Cooper pairs across resonance
+Moment switching in nanotube magnetic force probes
+Timing and Lensing of the Colliding Bullet Clusters: barely enough time  and gravity to accelerate the bullet
+Geometry of four-dimensional Killing spinors
+Interference effects in above-threshold ionization from diatomic  molecules: determining the internuclear separation
+Manifolds admitting a $\tilde G_2$-structure
+Marginal Solutions for the Superstring
+Vortex Molecular Crystal and Vortex Plastic Crystal States in Honeycomb  and Kagome Pinning Arrays
+Weighted percolation on directed networks
+Separability Criterion for Multipartite Pure States
+Tri-layer superlattices: A route to magnetoelectric multiferroics?
+Search for Very High Energy Emission from Gamma-Ray Bursts using Milagro
+Friedmann Equations and Thermodynamics of Apparent Horizons
+Finite dimensionality of 2-D micropolar fluid flow with periodic  boundary conditions
+Simulation of Robustness against Lesions of Cortical Networks
+Spectropolarimetric observations of the Ca II 8498 A and 8542 A lines in  the quiet Sun
+Search for gravitational-wave bursts in LIGO data from the fourth  science run
+Stochastic action principle and maximum entropy
+Compton X-ray and Gamma-ray Emission from Extended Radio Galaxies
+A High Robustness and Low Cost Model for Cascading Failures
+ALMA as the ideal probe of the solar chromosphere
+Extraction of physical laws from joint experimental data
+Magnetism in the high-Tc analogue Cs2AgF4 studied with muon-spin  relaxation
+J/psi Production in an Equilibrating Partonic System
+Frobenius splitting and geometry of $G$-Schubert varieties
+Order of Epitaxial Self-Assembled Quantum Dots: Linear Analysis
+Soft modes and NTE in Zn(CN)2 from Raman spectroscopy and first  principles calculations
+Annealed importance sampling of dileucine peptide
+Cosmological Singularities and a Conjectured Gravity/Coset  Correspondence
+A matroid-friendly basis for the quasisymmetric functions
+Normalized Ricci flow on nonparabolic surfaces
+Low Energy Aspects of Heavy Meson Decays
+Incommmensurability and unconventional superconductor to insulator  transition in the Hubbard model with bond-charge interaction
+The Transition from the First Stars to the Second Stars in the Early  Universe
+Neutron-Capture Elements in the Double-Enhanced Star HE 1305-0007: a New  s- and r-Process Paradigm
+Astrophysical gyrokinetics: kinetic and fluid turbulent cascades in  magnetized weakly collisional plasmas
+Coupled electron and phonon transport in one-dimensional atomic  junctions
+Computing genus 2 Hilbert-Siegel modular forms over $\Q(\sqrt{5})$ via  the Jacquet-Langlands correspondence
+The transverse proximity effect in spectral hardness on the line of  sight towards HE 2347-4342
+Penalization approach for mixed hyperbolic systems with constant  coefficients satisfying a Uniform Lopatinski Condition
+Phonon-mediated decay of an atom in a surface-induced potential
+Spinor dipolar Bose-Einstein condensates; Classical spin approach
+Quantum Deformations of Relativistic Symmetries
+Time and motion in physics: the Reciprocity Principle, relativistic  invariance of the lengths of rulers and time dilatation
+Stable oscillations of a predator-prey probabilistic cellular automaton:  a mean-field approach
+Complexity Considerations, cSAT Lower Bound
+Local well-posedness of nonlinear dispersive equations on modulation  spaces
+Fusion of radioactive $^{132}$Sn with $^{64}$Ni
+Radiative losses and cut-offs of energetic particles at relativistic  shocks
+Invariance principle for additive functionals of Markov chains
+Robust manipulation of electron spin coherence in an ensemble of singly  charged quantum dots
+Coupling of whispering-gallery modes in size-mismatched microdisk  photonic molecules
+Redshifts of the Long Gamma-Ray Bursts
+Convergence of a finite volume scheme for the incompressible fluids
+Conservation laws for invariant functionals containing compositions
+Estimation of experimental data redundancy and related statistics
+Approximation for extinction probability of the contact process based on  the Gr\"obner basis
+Singularity Resolution in Isotropic Loop Quantum Cosmology: Recent  Developments
+An algorithm for the classification of smooth Fano polytopes
+The classification of surfaces with p_g=q=1 isogenous to a product of  curves
+Renormalized quasiparticles in antiferromagnetic states of the Hubbard  model
+A remark on the number of steady states in a multiple futile cycle
+Multilinear function series in conditionally free probability with  amalgamation
+Proper J-holomorphic discs in Stein domains of dimension 2
