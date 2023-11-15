@@ -70,7 +70,36 @@ with col2:
 with col3:
     button3 = st.button("Quantization (Faster)")
 
+def highlight_text(text, color):
+    return f'<span style="color:{color}">{text}</span>'
 
+text = "This is an example of text highlighting."
+
+highlighted_text = (
+    highlight_text("This", "red") + " " +
+    highlight_text("is", "blue") + " " +
+    highlight_text("an", "green") + " " +
+    highlight_text("example", "orange") + " " +
+    highlight_text("of", "purple") + " " +
+    highlight_text("text", "cyan") + " " +
+    highlight_text("highlighting", "pink") + "."
+)
+
+st.markdown(highlighted_text, unsafe_allow_html=True)
+
+##############
+initial_text = "This is the initial content."
+additional_text = "This is additional content you can see."
+
+# Button for "See More"
+see_more_button = st.button("See More")
+
+# Display initial content
+st.write(initial_text)
+
+# Show additional content on "See More" button click
+if see_more_button:
+    st.write(additional_text)
 
 
 
